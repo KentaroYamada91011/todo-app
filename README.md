@@ -74,4 +74,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### タスク5
 - 日付機能
--
+
+### タスク6
+todo-appを使う際には期限のあるタスクがほとんどであると考えたため、投稿に日付が紐づけられるようにしました
+また、投稿に紐づけられた締め切りの日付を過ぎてしまった時にのみ色を赤く変えるようにしました。
